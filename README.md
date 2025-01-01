@@ -46,4 +46,24 @@ Follow these steps to set up and run the project:
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/Vansh-2604/AirlineManagementSystem.git
-## SCREENSHOT
+---
+
+
+## Screenshots
+
+
+![Login Page](https://via.placeholder.com/800x400.png?text=Login+Page+Screenshot)
+
+
+![Home Page](https://via.placeholder.com/800x400.png?text=Home+Page+Screenshot)
+
+
+![Details Section](https://via.placeholder.com/800x400.png?text=Details+Section+Screenshot)
+
+
+![Ticket Section](https://via.placeholder.com/800x400.png?text=Ticket+Section+Screenshot)
+
+
+
+---
+

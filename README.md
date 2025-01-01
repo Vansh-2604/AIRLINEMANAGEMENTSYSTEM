@@ -56,13 +56,22 @@ Follow these steps to set up and run the project:
 
 
 
-![Home Page](https://via.placeholder.com/800x400.png?text=Home+Page+Screenshot)
+![home](https://github.com/user-attachments/assets/bcf4c09c-c598-42f9-9096-2475e59d5ab0)
 
 
-![Details Section](https://via.placeholder.com/800x400.png?text=Details+Section+Screenshot)
 
+![flightdetails](https://github.com/user-attachments/assets/aa96d116-edb5-45ad-aaa6-77132874dbfa)
 
-![Ticket Section](https://via.placeholder.com/800x400.png?text=Ticket+Section+Screenshot)
+![customerdetails](https://github.com/user-attachments/assets/3338183f-bf29-41ee-a33d-39042b2425d7)
+
+![bookflight](https://github.com/user-attachments/assets/0a835a10-9694-44ea-b73f-f28ba3c52edd)
+
+![journeydetails](https://github.com/user-attachments/assets/a276df9a-407e-415b-beed-83ee404be2fa)
+
+![cancel](https://github.com/user-attachments/assets/3358b62d-19dc-4a41-8fb4-71410345e87d)
+
+![boardingpass](https://github.com/user-attachments/assets/a71d3fd3-c953-4fc5-8368-f594e5ee09f7)
+
 
 
 

@@ -31,10 +31,10 @@ Manage and access essential airline-related operations:
 ## Technologies Used
 
 - **Programming Language**: Java
-- **Database**: SQL (e.g., MySQL or any compatible RDBMS)
+- **Database**: SQL (MySQL)
 - **Java Libraries**:
   - **JDBC**: For database connectivity and operations.
-  - **Swing/AWT**: For the graphical user interface (if applicable).
+  - **Swing**: For the graphical user interface.
   - **Java Utilities**: For handling collections, input/output, and other operations.
 
 ---

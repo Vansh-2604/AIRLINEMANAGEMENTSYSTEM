@@ -39,15 +39,6 @@ Manage and access essential airline-related operations:
 
 ---
 
-## How to Run the Project
-
-Follow these steps to set up and run the project:
-
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/Vansh-2604/AirlineManagementSystem.git
----
-
 
 ## Screenshots
 
